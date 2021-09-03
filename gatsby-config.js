@@ -38,7 +38,7 @@ if (
 }
 
 /**
- * This is the place where you can tell Gatsby which plugins to use
+ * This is the place where you can tell Gatsby which plugins to use adding comments
  * and set them up the way you want.
  *
  * Further info 👉🏼 https://www.gatsbyjs.org/docs/gatsby-config/
