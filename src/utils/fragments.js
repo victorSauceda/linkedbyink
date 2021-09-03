@@ -10,6 +10,7 @@
  */
 
 // Used for tag archive pages
+import { graphql } from "gatsby";
 export const ghostTagFields = graphql`
     fragment GhostTagFields on GhostTag {
         slug
